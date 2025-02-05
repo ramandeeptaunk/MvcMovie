@@ -39,4 +39,5 @@ At 09:15 2025/02/05 - In order to solve I cleared the old file and started with 
 At 09:28 2025/02/05 - Now I go step by step and everything seems fine
 At 09:27 2025/02/05 - Going through the application
 At 09:35 2025/02/05 - Signed up for GitHub
-
+At 10:00 2025/02/05 - Exploring Github
+AT 10:25 2025/02/05 - Change the repository from private to public
