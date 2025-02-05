@@ -22,22 +22,22 @@ At 10:43 2025/01/22 - Initial the migration in package manager console the from 
 At 10:55 2025/01/22 - Ran the Application and it ran successfully.
 At 08:50 2025/01/29 - Lab 3 starts
 At 08:54 2025/01/29 - Account added on PortSwigger
-At 0 2025/01/29 - Account added on PortSwigger
-At 08:30 2025/02/05 - Started working on lab
-At 08:48 2025/02/05 - Going through the professors lecture
-At 08:52 2025/02/05 - Started working on the previous labs
-At 08:55 2025/02/05 - Updated the helloworldcontroller
-At 08:58 2025/02/05 - updated the index.cshtml
-At 08:59 2025/02/05 - updated the program.cs
-At 09:03 2025/02/05 - updated the layout.cshtml
-At 09:05 2025/02/05 - updated the view start
-At 09:08 2025/02/05 - upadted the welcome.cshtml
-At 09:10 2025/02/05 - updated the movie.cs
-At 09:10 2025/02/05 - Checking the complete program again
-At 09:13 2025/02/05 - It still haves a lot of issues
-At 09:15 2025/02/05 - In order to solve I cleared the old file and started with the new
-At 09:28 2025/02/05 - Now I go step by step and everything seems fine
-At 09:27 2025/02/05 - Going through the application
-At 09:35 2025/02/05 - Signed up for GitHub
-At 10:00 2025/02/05 - Exploring Github
-AT 10:25 2025/02/05 - Change the repository from private to public
+At 08:56 2025/01/29 - Account added on PortSwigger
+At 09:30 2025/02/05 - Started working on lab
+At 09:48 2025/02/05 - Going through the professors lecture
+At 09:52 2025/02/05 - Started working on the previous labs
+At 09:55 2025/02/05 - Updated the helloworldcontroller
+At 09:58 2025/02/05 - updated the index.cshtml
+At 09:59 2025/02/05 - updated the program.cs
+At 10:03 2025/02/05 - updated the layout.cshtml
+At 10:05 2025/02/05 - updated the view start
+At 10:08 2025/02/05 - upadted the welcome.cshtml
+At 10:10 2025/02/05 - updated the movie.cs
+At 10:10 2025/02/05 - Checking the complete program again
+At 10:13 2025/02/05 - It still haves a lot of issues
+At 10:15 2025/02/05 - In order to solve I cleared the old file and started with the new
+At 10:28 2025/02/05 - Now I go step by step and everything seems fine
+At 10:27 2025/02/05 - Going through the application
+At 10:35 2025/02/05 - Signed up for GitHub
+At 10:38 2025/02/05 - Exploring Github
+AT 10:45 2025/02/05 - Change the repository from private to public
